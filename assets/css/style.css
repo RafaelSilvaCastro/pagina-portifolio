@@ -109,7 +109,7 @@ body {
     border: none;
     outline: none;
     border-radius: 10px;
-    background-color: var(--#b81414);
+    background-color: var(--blue);
     color: var(--white);
     font-size: 1.2rem;
 }
@@ -308,7 +308,7 @@ body {
 }
 
 .redes-sociais a:hover .fa-linkedin {
-    color: #0e76a8;
+    color: #b81414;
 }
 
 .redes-sociais a:hover .fa-tiktok {
@@ -415,11 +415,11 @@ body {
 }
 
 .about-social a:hover .fa-github {
-    color: #454545;
+    color: #b81414;
 }
 
 .about-social a:hover .fa-linkedin {
-    color: #0e76a8;
+    color: #b81414;
 }
 
 .about-social a:hover .fa-tiktok {
@@ -955,7 +955,7 @@ body {
 }
 
 .btn-project a:hover {
-    background-color: #0056b3;
+    background-color: #b81414;
 }
 
 /* CONTACT */
